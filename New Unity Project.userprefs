@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScoreObj.js">
+    <Files>
+      <File FileName="Assets/leftWallCollision.js" Line="25" Column="38" />
+      <File FileName="Assets/PlayerBehavior.js" Line="24" Column="1" />
+      <File FileName="Assets/GameSetup.js" Line="19" Column="12" />
+      <File FileName="Assets/BallScript.js" Line="1" Column="1" />
+      <File FileName="Assets/ScoreScript.js" Line="1" Column="1" />
+      <File FileName="Assets/ScoreTrackerScript.js" Line="1" Column="1" />
+      <File FileName="Assets/ScoreObj.js" Line="5" Column="36" />
+      <File FileName="Assets/startbutton.js" Line="8" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
